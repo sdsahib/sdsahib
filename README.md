@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdsahib&label=Profile%20views&color=0e75b6&style=flat" alt="sdsahib" /> </p>
 
-- 💬 Ask me about **Java, Spring Boot, Spring**
+- 💬 Ask me about **Java, Spring Boot, Spring Core, Spring AI, AI, LLM, Machine Learning**
 
 - 📫 How to reach me **sdsahib95@gmail.com**
 
